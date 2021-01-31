@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Formulario de Alumno con modificaciones - PAC08</title>
+<style>
+html {
+font-family: 'Times New Roman', Times, serif;
+}
+</style>
+</head>
+<body>
+<form action="" method="GET">
+<h1>Formulario de Alumno - PAC08</h1>
+<p>Nombre: <input style="text" value="" name="name" maxlength="40"
+/></p>
+<p>Apellidos: <input style="text" value="" name="surnames"
+maxlength="40" /></p>
+<p>Sexo:
+<input type="radio" name="sex" value="Male" />hombre
+<input type="radio" name="sex" value="Female" />mujer
+</p>
+<p>Correo: <input type="email" maxlength="40" /></p>
+<p><input type="checkbox" name="statement" checked />Declaro mi
+intención de aprobar esta PAC08</p>
+<p>Población:
+<select>
+<option>Albarracín</option>
+<option>Teruel</option>
+<option selected>Huesca</option>
+<option>Zaragoza</option>
+<option>Calatayud</option>
+<option>Tarazona</option>
+<option>Jaca</option>
+<option>Alcañiz</option>
+<option>Ejea de los Caballeros</option>
+<option>Orihuela del Tremedal</option>
+</select></p>
+<p>Mensaje al profesor<br/>
+<textarea cols="60" rows="6"></textarea>
+</p>
+<p><input type="checkbox" name="confirmation" />Confirmo que no he
+realizado ninguna copia y que el código es completamente propio.
+</p>
+<p><input type="submit" value="Enviar" /></p>
+</form>
+</body>
+</html>
