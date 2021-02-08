@@ -1,0 +1,294 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE horario>
+<diaSemana dia = "Lunes">
+    <hora id = "17:30">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 1----">
+            <actividad>Moderno</actividad>
+            <tipoAlumno>Niños</tipoAlumno>
+            <profesor>Nekane</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+        <horaFin>19:30</horaFin>
+        <aula id = "Aula 1">
+            <actividad>Jazz + Musical + PGII y PGIII</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Nekane</profesor>
+        </aula> 
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Post Grado Musical</actividad>
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula> 
+    </hora>
+    <hora id = "18:00">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 2">
+            <actividad></actividad>
+            <tipoAlumno>Jóvenes 13-17</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula> 
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 3">
+            <actividad>Ballet PGII + PGIII y Musical</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor></profesor>
+        </aula> 
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 4">
+            <actividad>Interpretación</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Nacho</profesor>
+        </aula> 
+    </hora>
+</diaSemana>
+<diaSemana dia = "Martes">
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 1">
+            <actividad>Cuenta cuentos</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Pilar</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:00">
+        <horaFin>19:00</horaFin>
+        <aula id = "Aula 1"> 
+            <actividad>Canto</actividad>
+            <tipoAlumno>Niñas</tipoAlumno>
+            <profesor>Yanet</profesor>
+        </aula>
+    </hora>
+    <hora id = "19:00">
+        <horaFin>20:00</horaFin>
+        <aula id = "Aula 1"> 
+            <actividad>3º Musical</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Yanet</profesor>
+        </aula>
+    </hora>
+    <hora id = "20:00">
+        <horaFin>21:00</horaFin>
+        <aula id = "Aula 1"> 
+            <actividad>1º Estilo y Repertorio</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Yanet</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>21:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Canto Grados y particular</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Marina</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 3">
+            <actividad>Ballet barra al suelo</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Alicia</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 4">
+            <actividad>Post grado musical</actividad>
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:00">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 4">
+            <actividad></actividad>
+            <tipoAlumno>Jóvenes 13-17</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+</diaSemana>
+<diaSemana dia = "Miércoles">
+    <hora id = "17:30">
+    <horaFin>18:00</horaFin>
+        <aula id = "Aula 1">
+            <actividad>Ballet</actividad>
+            <tipoAlumno>Infantil</tipoAlumno>
+            <profesor>Marina Ortega</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+    <horaFin>19:00</horaFin>
+        <aula id = "Aula 1">
+            <actividad>Jazz + PGII</actividad>
+            <tipoAlumno>9-12 años</tipoAlumno>
+            <profesor>Stefy</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>19:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Urbanos</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Nekane</profesor>
+        </aula>
+    </hora>
+    <hora id = "19:00">
+        <horaFin>20:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Ballet PGIV</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Alicia</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 3">
+            <actividad>Post grado Musical</actividad>
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:00">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 3">
+            <actividad></actividad>
+            <tipoAlumno>Jóvenes 13-17</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>      
+</diaSemana>
+<diaSemana dia = "Jueves">
+    <hora id = "17:00">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 1">   
+            <actividad>Teatro musical</actividad>
+            <tipoAlumno>Infantil</tipoAlumno>
+            <profesor>Marina Pastor</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:00">
+        <horaFin>19:00</horaFin>
+        <aula id = "Aula 1">   
+            <actividad>PGII</actividad>
+            <tipoAlumno>8-11 años</tipoAlumno>
+            <profesor>Marina Pastor</profesor>
+        </aula>
+    </hora>
+    <hora id = "19:00">
+        <horaFin>20:00</horaFin>
+        <aula id = "Aula 1">   
+            <actividad>Canto</actividad>
+            <tipoAlumno>Grados y particular</tipoAlumno>
+            <profesor>Marina</profesor>
+        </aula>
+    <hora id = "20:00">
+        <horaFin>21:00</horaFin>
+        <aula id = "Aula 1">   
+            <actividad>Teatro musica PGIII</actividad>
+            <tipoAlumno>12 años</tipoAlumno>
+            <profesor>Marina Pastor</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Claqué</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Cecilia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:00">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 2">
+            <actividad>Post grado musical</actividad>
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+        <horaFin>19:00</horaFin>
+        <aula id = "Aula 2">
+            <actividad></actividad>
+            <tipoAlumno>Jóvenes 13-17 años</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "19:30">
+        <horaFin>20:30</horaFin>
+        <aula id = "Aula 2">
+            <actividad>3º y Avanzado Interpretación + Clases particulares</actividad>
+            <tipoAlumno></tipoAlumno>
+            <profesor>Jorge<profesor>
+        </aula>
+    </hora>    
+</diaSemana>
+<diaSemana dia = "Viernes">
+    <hora id = "16:30">
+        <horaFin>20:30</horaFin>
+        <aula id = "Aula 1">  
+            <actividad>Gestiónn emocional Jóvenes mayores de edad</actividad
+            <tipoAlumno></tipoAlumno>
+            <profesor>Desconocido</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+        <horaFin>20:00</horaFin>
+        <aula id = "Aula 1">  
+            <actividad>1º Canto y 3º Musical</actividad
+            <tipoAlumno></tipoAlumno>
+            <profesor>Yanet</profesor>
+        </aula>
+    </hora>
+    <hora id = "17:30">
+        <horaFin>18:00</horaFin>
+        <aula id = "Aula 2">  
+            <actividad>Post grado musical</actividad
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+        <horaFin>18:30</horaFin>
+        <aula id = "Aula 2">  
+            <actividad></actividad
+            <tipoAlumno>Jóvenes 13-17</tipoAlumno>
+            <profesor>Malia</profesor>
+        </aula>
+    </hora>
+    <hora id = "18:30">
+        <horaFin>19:30</horaFin>
+        <aula id = "Aula 2">  
+            <actividad>Gestión emocional</actividad
+            <tipoAlumno>Adultos</tipoAlumno>
+            <profesor></profesor>
+        </aula>
+    </hora>
+    <hora id = "20:00">
+        <horaFin>21:00</horaFin>
+            <aula id = "Aula 2">  
+            <actividad>Escena estudio en abierto</actividad
+            <tipoAlumno></tipoAlumno>
+            <profesor></profesor>
+        </aula>
+    </hora>   
+</diaSemana>
+<diaSemana dia = "Domingo">
+    <hora id = "13:00">
+        <horaFin>14:00</horaFin>
+        <aula id = "Aula Principal">
+            <actividad>Gestiónn emocional Adolescentes</actividad>
+            <tipoAlumno>Adolescentes</tipoAlumno>
+            <profesor>Desconocido</profesor>
+        </aula>
+    </hora>      
+</diaSemana>
+</horario>
